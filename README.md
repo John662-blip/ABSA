@@ -24,4 +24,5 @@ Input:  "The screen is bright and clear, but the battery life is disappointing."
 Output:  
 - `screen → positive`  
 - `battery life → negative`
-
+## Giao diện 
+![b7f1549149cfc3919ade](https://github.com/user-attachments/assets/ba904360-1eb5-420d-b7e8-6ede4e7edba3)
