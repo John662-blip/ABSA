@@ -12,10 +12,10 @@ Dataset: **[SemEval 2014 Task 4 (Kaggle)]([https://www.kaggle.com/datasets/ivan-
 
 ## ⚙️ Mô hình & Kết quả
 - **Model 1 – Aspect Extraction** (`bert-base-uncased`, TokenClassification)  
-  - F1-score: **94%**
+  - F1-score: **89%**
 
 - **Model 2 – Sentiment Classification** (`bert-base-uncased`, SequenceClassification)  
-  - Accuracy: **98%**
+  - Accuracy: **80%**
 
 ---
 
